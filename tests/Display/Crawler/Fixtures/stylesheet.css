@@ -1,0 +1,17 @@
+* {
+    background-color: #000;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-image: url('php.gif');
+}
+
+div {
+    background-image: url(data:image/png;base64,CODE64ASSEZLONG);
+}
+
+span {
+    background: #000 url('php.gif') no-repeat 0 0;
+}
